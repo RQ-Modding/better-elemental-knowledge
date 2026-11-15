@@ -1,0 +1,9 @@
+{
+  "$schema": "https://rq-modding.github.io/rq-modding-docs/schemas/mod.schema.json",
+  "id": "better-elemental-knowledge",
+  "name": "Better Elemental Knowledge",
+  "author": "Moru Zerinho6",
+  "version": "1.0.0",
+  "loader": "2.53.0",
+  "priority": 0
+}
