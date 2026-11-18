@@ -37,8 +37,8 @@ returns `BRAWLING`, `ARROWS`, `SETS`, `price(iic, set)`, `held(iic, set)`,
 `fold(iic, set, record)` and `pick(ctx)` (the `rq.combat.on_element` callback: the element it
 gives a hit, or nil).
 
-## Test Lab
+## Tested in the game
 
-`elemental-knowledge` (with this mod installed): the skills, the buy list for a Brawler, a Fighter
+The Test Lab's scenario `elemental-knowledge` (with this mod installed): the skills, the buy list for a Brawler, a Fighter
 and the Kalar Gunners, a purchase through the skill window, Kibako's fold for 1 point, the hits on
 each element, the forecast, Skill Again, Skill Removal Payback and Loadouts.

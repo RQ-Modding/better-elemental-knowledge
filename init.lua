@@ -1,6 +1,6 @@
 -- Better Elemental Knowledge: one skill row in place of the five Brawling Knowledges (Brawlers),
 -- and one in place of Fire, Ice and Electric Arrows (Kalar Gunners such as Aegis). A player's
--- suggestion; notes/plans/plan-better-elemental-knowledge.md in the workspace.
+-- suggestion.
 -- API reference: https://rq-modding.github.io/rq-modding-docs/reference/
 --
 -- What the game does (Ｔ購入スキル登録, 物理属性計算): a Brawler buys each Brawling Knowledge for 1
