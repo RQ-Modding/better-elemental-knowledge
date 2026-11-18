@@ -2,6 +2,17 @@
 
 One skill row for a whole set of elemental skills, so Brawlers and Aegis keep room for others.
 
+## Showcase
+
+### Elemental Brawling Knowledge
+
+<img width="631" height="175" alt="image" src="https://github.com/user-attachments/assets/b65128c5-33d0-4ffa-bb30-07fb37727879" />
+
+### Elemental Arrows
+
+<img width="397" height="210" alt="image" src="https://github.com/user-attachments/assets/8a8f0474-c74f-450f-ad7c-b70f1cf84cb7" />
+
+
 ## What it changes
 
 A character holds at most 17 skills. A Brawler who wants Element Strike to hit every weakness
